@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Funnel';
+    src: url('/fonts/Funnel_Display/static/FunnelDisplay-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'BoldFunnel';
+    src: url('/fonts/Funnel_Display/static/FunnelDisplay-Bold.ttf');
+}
+
+@font-face {
+    font-family: 'Dosis';
+    src: url('/fonts/Dosis/static/Dosis-Medium.ttf') format('truetype');
+}
